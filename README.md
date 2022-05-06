@@ -1,4 +1,4 @@
-# eslint bug repro repro
+# eslint bug repro
 
 in app.vue eslint error
 
